@@ -9,10 +9,9 @@ tells you the following information:
 - The motel has two levels.
 - Because the second level is only accessible via an outdoor staircase, rooms on this level are not handicap accessible.
 - Rooms can have 1, 2, or 3 beds, at the following nightly costs:
-
--- 1 bed - $50 per night
--- 2 beds - $75 per night
--- 3 beds - $90 per night
+	- 1 bed - $50 per night
+	- 2 beds - $75 per night
+	- 3 beds - $90 per night
 
 - The motel allows guests to bring pets, but they charge $20 per pet and limit it to 2 pets
 maximum. Also, because some pets are messy, pets are only allowed on the ground
@@ -25,7 +24,7 @@ Implement a simple booking system based on these requirements.
 You may completely ignore the database for this exercise.
 
 
-#Known Issues
+## Known Issues
 
 - Per the requirements, this does not include database assets. Some methods return hard-coded data. It can be assumed that these methods have no logic - they only pull data directly from the DB and send it on.
 - I assumed each floor of the motel had 20 rooms.
