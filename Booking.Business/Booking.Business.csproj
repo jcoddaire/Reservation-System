@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Booking.Helpers\Booking.Helpers.csproj" />
+    <ProjectReference Include="..\Jacob_Coddaire_code_excercise\Booking.Models.csproj" />
+  </ItemGroup>
+
+</Project>
